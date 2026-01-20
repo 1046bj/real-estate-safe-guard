@@ -9,10 +9,10 @@ function App() {
         {/* 헤더 */}
         <header className="mb-8">
           <h1 className="text-4xl font-bold text-slate-900 mb-2">
-            부동산 세이프 가드
+            전세안전진단 & 경매 권리분석
           </h1>
           <p className="text-lg text-slate-600">
-            Real Estate Safe Guard
+            깡통전세 방지와 안전한 경매 입찰을 위한 무료 도구
           </p>
         </header>
 
